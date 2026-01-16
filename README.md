@@ -14,11 +14,12 @@ Total Time Taken: 13 Days
 
 ## 🎯 Pages Included
 - Home Page
-- Portfolio Page
+- Project Page
 - Contact Page
+- About page
 
 ## 📌 Note
 This is a demo project. No JavaScript or backend is used.
 
 ## 👨‍💻 Developer
-Sikandar
+Sikandar.Mehta.nfg
